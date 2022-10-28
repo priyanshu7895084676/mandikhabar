@@ -286,7 +286,7 @@ function UpdatePrice () {
  
 }
 
-setInterval(UpdatePrice,14760000);
+setInterval(UpdatePrice,1400000);
 
 // Update function
 
